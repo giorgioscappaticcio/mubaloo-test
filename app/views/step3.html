@@ -1,0 +1,12 @@
+<h2 ng-bind="template.name"></h2>
+<textarea ng-model="formdata.feedback"></textarea>
+<div class="col col-1-10">
+	<button ng-click="collectData()">Send</button>
+</div>
+<div class="step-nav">
+	<ul>
+		<li ng-click="goto(0)">1</li>
+		<li ng-click="goto(1)">2</li>
+		<li class="active">3</li>
+	</ul>
+</div>
