@@ -53,7 +53,7 @@ angular.module('mubalootestApp')
 
 	  $scope.templates =
     	[ { name: 'Yuor<br> Details', url: '../../views/step1.html'},
-      		{ name: 'Where and When', url: '../../views/step2.html'},
+      		{ name: 'When and Where', url: '../../views/step2.html'},
       		{ name: 'Send us a feedback', url: '../../views/step3.html'} ];
   	
   	
@@ -84,6 +84,7 @@ angular.module('mubalootestApp')
           return;
         }  else {
           $scope.bdayReq = false;
+          $scope.$parent.step1active = true;
         }
       } 
 

@@ -209,6 +209,10 @@ span.alert {
 						padding-left: 23px;
 						padding-right: 23px;
 					}
+					
+					&.semi-active {
+						background-color: $fuxia;
+					}
 					&.active {
 						background-color: $green;
 					}
