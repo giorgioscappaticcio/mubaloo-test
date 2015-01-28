@@ -1,0 +1,15 @@
+2015-01-27 19:50:17.407 MubaApp[24482:3130784] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/giorgioscappaticcio/Library/Developer/CoreSimulator/Devices/CCDC3E1F-BFB7-4ED5-BDB0-425A986B6AFA/data/Containers/Data/Application/7A895500-677A-4F2A-B457-966D3C2277EC/Library/Cookies/Cookies.binarycookies
+2015-01-27 19:50:17.703 MubaApp[24482:3130784] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-27 19:50:17.703 MubaApp[24482:3130784] Multi-tasking -> Device: YES, App: YES
+2015-01-27 19:50:17.705 MubaApp[24482:3130784] Unlimited access to network resources
+2015-01-27 19:50:17.708 MubaApp[24482:3130784] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-27 19:50:18.464 MubaApp[24482:3130784] Resetting plugins due to page load.
+2015-01-27 19:50:18.776 MubaApp[24482:3130784] Finished load of: file:///Users/giorgioscappaticcio/Library/Developer/CoreSimulator/Devices/CCDC3E1F-BFB7-4ED5-BDB0-425A986B6AFA/data/Containers/Bundle/Application/435066A9-1887-4CC1-B31E-597236460F0A/MubaApp.app/www/index.html#/
+2015-01-27 19:50:50.121 MubaApp[24482:3131032] Terminating since there is no system app.
