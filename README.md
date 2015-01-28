@@ -11,3 +11,4 @@ Step2: cd within the project's folder and run npm install (you need to have inst
 Step3: you can run the project in localhost with the command "grunt serve" or build the project with "grunt build"
 
 
+For ios emulator if the project get stuck on the loading image you should change your location option to "Apple" in the Debug dropdown.
